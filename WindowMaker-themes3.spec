@@ -1,13 +1,14 @@
 Summary:	Pack of themes for WindowMaker
 Summary(pl):	Zestaw motywów dla WindowMakera
-Name:		WindowMaker-themes-pack3
+Name:		WindowMaker-themes3
 Version:	1.0
-Release:	2
+Release:	1
 License:	GPL
 Group:		Themes
 Source0:	http://ep09.pld-linux.org/~havner/%{name}.tar.bz2
 # Source0-md5:	cf626eabeebc5cba45cb50b0765ff511
 Requires:	WindowMaker
+Obsoletes:	WindowMaker-themes-pack3
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_themesdir	%{_datadir}/WindowMaker/Themes
