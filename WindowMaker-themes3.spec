@@ -1,5 +1,5 @@
 Summary:	Pack of themes for WindowMaker
-Summary(pl.UTF-8):   Zestaw motywów dla WindowMakera
+Summary(pl.UTF-8):	Zestaw motywów dla WindowMakera
 Name:		WindowMaker-themes3
 Version:	1.0
 Release:	4
