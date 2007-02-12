@@ -1,5 +1,5 @@
 Summary:	Pack of themes for WindowMaker
-Summary(pl):	Zestaw motywów dla WindowMakera
+Summary(pl.UTF-8):   Zestaw motywÃ³w dla WindowMakera
 Name:		WindowMaker-themes3
 Version:	1.0
 Release:	4
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This is a set of various themes for WindowMaker.
 
-%description -l pl
-Zestaw ró¿nych motywów dla WindowMakera.
+%description -l pl.UTF-8
+Zestaw rÃ³Å¼nych motywÃ³w dla WindowMakera.
 
 %prep
 %setup -q -n %{name}
